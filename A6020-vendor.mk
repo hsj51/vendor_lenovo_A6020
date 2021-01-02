@@ -531,7 +531,9 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libwvhidl.so:system/vendor/lib64/libwvhidl.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.qti.hardware.alarm@1.0.so:system/vendor/lib64/vendor.qti.hardware.alarm@1.0.so \
-    vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so
+    vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/libprotobuf-cpp-full.so:system/vendor/lib64/libprotobuf-cpp-full.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/libprotobuf-cpp-lite.so:system/vendor/lib64/libprotobuf-cpp-lite.so
 
 # Dirac
 PRODUCT_COPY_FILES += \
