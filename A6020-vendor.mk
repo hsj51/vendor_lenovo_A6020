@@ -103,11 +103,19 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lenovo/A6020/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/lenovo/A6020/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/lenovo/A6020/proprietary/lib/vendor.display.color@1.0.so:system/lib/vendor.display.color@1.0.so \
+    vendor/lenovo/A6020/proprietary/lib/vendor.display.config@1.0.so:system/lib/vendor.display.config@1.0.so \
+    vendor/lenovo/A6020/proprietary/lib/vendor.display.postproc@1.0.so:system/lib/vendor.display.postproc@1.0.so \
+    vendor/lenovo/A6020/proprietary/lib/vendor.qti.hardware.qdutils_disp@1.0.so:system/lib/vendor.qti.hardware.qdutils_disp@1.0.so \
     vendor/lenovo/A6020/proprietary/lib/vendor.qti.hardware.fm@1.0.so:system/lib/vendor.qti.hardware.fm@1.0.so \
     vendor/lenovo/A6020/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
     vendor/lenovo/A6020/proprietary/lib64/libdivxdrmdecrypt.so:system/lib64/libdivxdrmdecrypt.so \
     vendor/lenovo/A6020/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/lenovo/A6020/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
+    vendor/lenovo/A6020/proprietary/lib64/vendor.display.color@1.0.so:system/lib64/vendor.display.color@1.0.so \
+    vendor/lenovo/A6020/proprietary/lib64/vendor.display.config@1.0.so:system/lib64/vendor.display.config@1.0.so \
+    vendor/lenovo/A6020/proprietary/lib64/vendor.display.postproc@1.0.so:system/lib64/vendor.display.postproc@1.0.so \
+    vendor/lenovo/A6020/proprietary/lib64/vendor.qti.hardware.qdutils_disp@1.0.so:system/lib64/vendor.qti.hardware.qdutils_disp@1.0.so \
     vendor/lenovo/A6020/proprietary/lib64/vendor.qti.hardware.fm@1.0.so:system/lib64/vendor.qti.hardware.fm@1.0.so \
     vendor/lenovo/A6020/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/lenovo/A6020/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
@@ -381,6 +389,10 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/soundfx/libswdap.so:system/vendor/lib/soundfx/libswdap.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/vendor.display.color@1.0_vendor.so:system/vendor/lib/vendor.display.color@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/vendor.display.config@1.0_vendor.so:system/vendor/lib/vendor.display.config@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/vendor.display.postproc@1.0_vendor.so:system/vendor/lib/vendor.display.postproc@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/vendor.qti.hardware.qdutils_disp@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.qdutils_disp@1.0_vendor.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/vendor.qti.hardware.fm@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.fm@1.0_vendor.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:system/vendor/lib64/egl/eglSubDriverAndroid.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/egl/eglsubAndroid.so:system/vendor/lib64/egl/eglsubAndroid.so \
@@ -536,6 +548,10 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libwfdcommonutils.so:system/vendor/lib64/libwfdcommonutils.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libwvhidl.so:system/vendor/lib64/libwvhidl.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.display.color@1.0_vendor.so:system/vendor/lib/vendor.display.color@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.display.config@1.0_vendor.so:system/vendor/lib/vendor.display.config@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.display.postproc@1.0_vendor.so:system/vendor/lib/vendor.display.postproc@1.0_vendor.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.qdutils_disp@1.0_vendor.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.qti.hardware.alarm@1.0.so:system/vendor/lib64/vendor.qti.hardware.alarm@1.0.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.fm@1.0_vendor.so
 
